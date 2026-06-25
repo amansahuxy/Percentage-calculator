@@ -8,5 +8,6 @@ calc.addEventListener("click",()=>{
     let obtain=Number(obtainInput.value);
     let total=Number(totalInput.value);
     let percent=(obtain*100)/total;
-    
+     
+
 })
