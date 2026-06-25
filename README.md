@@ -1,7 +1,7 @@
 # 📊 Grade Calculator
 
 A simple Grade Calculator built using HTML, CSS, and JavaScript. Users can enter obtained marks and total marks to calculate their percentage and grade instantly.
-
+ 
 ## 🚀 Features
 
 * Calculate percentage from marks
