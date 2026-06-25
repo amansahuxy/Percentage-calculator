@@ -9,7 +9,7 @@ calc.addEventListener("click",()=>{
     let total=Number(totalInput.value);
     let percent=(obtain*100)/total;
      rslt.innerText=percent;
-    
+
    if (percent >= 90 && percent <= 100) {
     grad.innerText = "A+";
 }
